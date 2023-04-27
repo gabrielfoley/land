@@ -77,7 +77,7 @@ margin: 5px;
 .main >.container > h2{
   text-align: center;
   font-size: 50px;
-  color: #000;
+  color: #00ff7f;
   opacity:1;
 }
 .main >.container >.content{
@@ -103,9 +103,9 @@ margin: 5px;
   
 }
 .main >.container >.content >ul >li > span{
- color:springgreen;
+ color:#00ff7f;
  font-size: 30px;
-margin: 5px;
+  margin: 5px;
   
 }
 .main >.container >.content> .subscribe {
@@ -135,7 +135,6 @@ opacity: 1;
   }
   .main > .container > h2{
     font-size: 30px;
-
   }
   .main >.container >.content >ul >li {
    color: #fff;
@@ -143,6 +142,7 @@ opacity: 1;
   }
   .main >.container >.content >ul >li > span{
     font-size: 30px;
+    color: #00ff7f;
    }
 }
 @media screen and (max-width: 1100px) {
@@ -153,6 +153,7 @@ opacity: 1;
   }
   .main >.container >.content >ul >li > span{
     font-size: 30px;
+    color: #00ff7f;
    }
 
    .main >.container >.content> .subscribe {
@@ -180,6 +181,7 @@ opacity: 1;
   }
   .main >.container >.content >ul >li > span{
     font-size: 30px;
+    color: #00ff7f;
    }
 
    .main >.container >.content> .subscribe {
@@ -208,9 +210,11 @@ opacity: 1;
   
         } 
         .main >.container >.content >ul >li {
-        
-           line-height: 0.9; 
-          
+           line-height: 0.9;   
+         }
+
+         .main >.container >.content >ul >li > span{
+          color: #00ff7f;
          }
     }
 
