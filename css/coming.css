@@ -122,17 +122,18 @@ border-radius: 5px;
 display: flex;
 justify-content: center;
 align-items: center;
-margin-right: 5rem;
-font-size: 25px;
+margin-right: 1rem;
+font-size: 20px;
 color: #fff;
 opacity: 1;
 }
 
 .main >.container >.content> .subscribe >.info-text >.span{
 display: flex;
+white-space: pre-wrap;
 justify-content: center;
 align-items: center;
-margin-right: 5rem;
+margin-right: 1rem;
 font-size: 18px;
 color: #fff;
 opacity: 1;
@@ -226,6 +227,7 @@ opacity: 1;
 
          .main >.container >.content >ul >li > span{
           color: #00ff7f;
+          margin-left: 12px;
          }
     }
 
