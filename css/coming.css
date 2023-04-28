@@ -122,11 +122,22 @@ border-radius: 5px;
 display: flex;
 justify-content: center;
 align-items: center;
+margin-right: 5rem;
 font-size: 25px;
 color: #fff;
 opacity: 1;
 }
 
+.main >.container >.content> .subscribe >.info-text >.span{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right: 5rem;
+font-size: 18px;
+color: #fff;
+opacity: 1;
+
+}
 
 @media screen and (max-width: 1400px) {
   .main > .container > h1{
